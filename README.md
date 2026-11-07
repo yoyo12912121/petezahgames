@@ -152,7 +152,12 @@ If you would like to use one of the following buttons to deploy
 ## Star History
 
 [![StarGazers](https://api.star-history.com/svg?repos=PeteZah-Games/PeteZahGames&type=date&theme=dark&legend=top-left)](https://github.com/PeteZah-Games/PeteZahGames/stargazers)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fyoyo12912121%2Fpetezahgames.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fyoyo12912121%2Fpetezahgames?ref=badge_shield)
 
 ## Contributors
 
 [![Contributors](https://contrib.rocks/image?repo=PeteZah-Games/PeteZahGames)](https://github.com/PeteZah-Games/PeteZahGames/graphs/contributors)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fyoyo12912121%2Fpetezahgames.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fyoyo12912121%2Fpetezahgames?ref=badge_large)
